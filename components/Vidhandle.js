@@ -4,7 +4,7 @@ import style from './Vidhandle.module.css'
 const Vidhandle = () => {
   return (
     <div className={style.container}>
-    <Image src={vid}/>
+        <Image src={vid}/>
     </div>
   )
 }
