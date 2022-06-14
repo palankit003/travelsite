@@ -1,0 +1,8 @@
+.main{
+    position: relative;
+    min-width: 100%;
+    text-align: center;
+    font-size: 5rem;
+    top: 20vh;
+    color: rgb(147, 240, 153);
+}
